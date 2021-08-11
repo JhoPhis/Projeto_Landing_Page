@@ -1,5 +1,5 @@
 # Projeto_Landing_Page
 
-# Projeto feito com base o curso da Udemy
+Projeto feito com base no curso da Udemy
 
-# Todos os direitos reservados.
+Todos os direitos reservados.
