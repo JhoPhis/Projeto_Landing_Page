@@ -1,5 +1,13 @@
-# Projeto_Landing_Page
+# Projeto Landing Page :computer:
 
-Projeto feito com base no curso da Udemy
+## Sobre o projeto: :page_facing_up:
+
+Projeto feito com base no curso da Udemy.
+
+
+##  Status do projeto: :wrench:
+
+Em desenvolvimento.
+
 
 Todos os direitos reservados.
