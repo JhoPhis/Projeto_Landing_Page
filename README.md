@@ -10,4 +10,6 @@ Projeto feito com base no curso da Udemy.
 Em desenvolvimento.
 
 
-Todos os direitos reservados.
+##  Desafio a serem realizados: :pushpin:
+
+- [ ] Deixar interface responsiva
