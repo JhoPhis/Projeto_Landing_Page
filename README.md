@@ -1,15 +1,15 @@
-# Projeto Landing Page :computer:
+# :computer: Projeto Landing Page 
 
-## Sobre o projeto: :page_facing_up:
+## :page_facing_up: Sobre o projeto: 
 
 Projeto feito com base no curso da Udemy.
 
 
-##  Status do projeto: :wrench:
+## :wrench: Status do projeto: 
 
-Em desenvolvimento.
+Em desenvolvimento
 
 
-##  Desafio a serem realizados: :pushpin:
+## :pushpin: Desafio a serem realizados: 
 
 - [ ] Deixar interface responsiva
