@@ -1,4 +1,4 @@
-# :computer: Projeto Landing Page 
+# :computer: Projeto: Landing Page 
 
 ## :page_facing_up: Sobre o projeto: 
 
