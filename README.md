@@ -3,13 +3,14 @@
 ## Sobre o projeto: :page_facing_up:
 
 Projeto feito com base no curso da Udemy.
+Tecnologias utilizadas: HTML e CSS.
 
 
 ## Status do projeto: :wrench:
 
-Em desenvolvimento.
+Finalizado. Para acessar o projeto acesse: https://landingpagejps.netlify.app/
 
 
-## Desafio a serem realizados: :pushpin:
+## Desafios realizados: :pushpin:
 
-- [ ] Deixar interface responsiva.
+- [x] Deixar interface responsiva.
