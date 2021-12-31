@@ -8,7 +8,8 @@ Tecnologias utilizadas: HTML e CSS.
 
 ## Status do projeto: :wrench:
 
-Finalizado. Para acessar o projeto acesse: https://landingpagejps.netlify.app/
+Finalizado! 
+Para acessar o projeto [clique aqui](https://landingpagejps.netlify.app/){:target="_blank"}. 
 
 
 ## Desafios realizados: :pushpin:
